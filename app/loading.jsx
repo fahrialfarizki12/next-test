@@ -4,7 +4,7 @@ const loading = () => {
   return (
     <>
       <div className="grid h-screen place-items-center">
-        <span className="loading loading-spinner loading-xl"></span>
+        <span className="loading loading-bars loading-xl"></span>
       </div>
     </>
   );
